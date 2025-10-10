@@ -1,0 +1,17 @@
+{
+  "name": "api-key-system",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.7",
+    "pg": "^8.11.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
